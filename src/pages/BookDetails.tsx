@@ -45,7 +45,7 @@ const BookDetails = () => {
             <p className="text-xs font-medium">
               Published by: {book.volumeInfo.publisher}
             </p>
-            <p className="text-xs font-medium">
+            <p className="text-xs font-medium mt-2">
               Publication date: {book.volumeInfo.publishedDate}
             </p>
           </div>
