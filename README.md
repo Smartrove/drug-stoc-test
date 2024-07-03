@@ -1,11 +1,11 @@
 # React + TypeScript + Vite
 
-#About This Application
+# About This Application
 
 - This is a Book Library Application built with Google Book API.
 - You can search for books from every niche using book name, author name, publication date or publishers.
 
-#Running This App on Local
+# Running This App on Local
 
 - After cloning the repo.
 - Install the node packages using `npm install`.
